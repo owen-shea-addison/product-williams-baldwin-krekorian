@@ -3,13 +3,18 @@ body, html {
   font-family: "Inconsolata", sans-serif;
 }
 
-.bgimg {
+.fullscreen-img-1 {
   background-position: center;
   background-size: cover;
-  background-image: url(/img/);
+  background-image: url(../img/home%20background.png);
   min-height: 75%;
 }
 
 .menu {
   display: none;
 }
+
+
+.mySlides {display:none;
+}
+
